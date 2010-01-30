@@ -1,0 +1,5 @@
+module ActiveRecordExtensions
+end
+
+require 'activerecord_extensions/named_scopes'
+require 'activerecord_extensions/raw_resultset'
